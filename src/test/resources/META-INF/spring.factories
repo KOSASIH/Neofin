@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.kosasih.neofin.\
+    config.TestContainersSpringContextCustomizerFactory,com.kosasih.neofin.\
+    config.SqlTestContainersSpringContextCustomizerFactory,com.kosasih.neofin.\
+    config.KafkaTestContainersSpringContextCustomizerFactory
