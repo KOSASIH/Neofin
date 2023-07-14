@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/KOSASIH/Neofin/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KOSASIH/Neofin/tree/main)
+
 # Neofin - Financial Technology Microservice System
 
 Neofin is a robust and scalable financial technology microservice system designed to provide a comprehensive suite of financial services and solutions. It aims to streamline financial processes, enhance operational efficiency, and enable seamless integration with existing financial systems.
