@@ -64,7 +64,7 @@ The Neofin documentation provides detailed information on the system's architect
 
 ## Contributing
 
-We welcome contributions from the community to improve Neofin. If you're interested in contributing, please follow our [Contribution Guidelines](contribution-guidelines.md).
+We welcome contributions from the community to improve Neofin. If you're interested in contributing, please follow our [Contribution Guidelines](https://github.com/KOSASIH/.github/blob/master/CONTRIBUTING.md).
 
 ## Support
 
