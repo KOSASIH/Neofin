@@ -72,7 +72,7 @@ If you encounter any issues or have any questions, please reach out to our suppo
 
 ## License
 
-Neofin is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the system as per the terms of the license.
+Neofin is released under the [MIT License](https://github.com/KOSASIH/Neofin/blob/main/LICENSE). Feel free to use, modify, and distribute the system as per the terms of the license.
 
 ## Acknowledgements
 
