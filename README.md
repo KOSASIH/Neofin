@@ -135,13 +135,6 @@ Please note that the roadmap is subject to change based on user feedback, market
 
 Neofin aims to revolutionize the financial technology landscape by providing a comprehensive and scalable microservice system. With its modular architecture, extensive feature set, and developer-friendly approach, Neofin offers a powerful platform for businesses to streamline their financial operations and deliver exceptional user experiences. We invite you to explore Neofin, contribute to its development, and join us in shaping the future of financial technology.
 
-# Neofin
-
-This application was generated using JHipster 8.0.0-beta.2, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v8.0.0-beta.2](https://www.jhipster.tech/documentation-archive/v8.0.0-beta.2).
-
-This is a "microservice" application intended to be part of a microservice architecture, please refer to the [Doing microservices with JHipster][] page of the documentation for more information.
-This application is configured for Service Discovery and Configuration with the JHipster-Registry. On launch, it will refuse to start if it is not able to connect to the JHipster-Registry at [http://localhost:8761](http://localhost:8761). For more information, read our documentation on [Service Discovery and Configuration with the JHipster-Registry][].
-
 ## Project Structure
 
 Node is required for generation and recommended for development. `package.json` is always generated for a better development experience with prettier, commit hooks, scripts and so on.
